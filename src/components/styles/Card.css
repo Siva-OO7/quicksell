@@ -39,17 +39,17 @@
     width: 1px;
     background-color: #c16d24;
     color: #FFFFFF;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 500;
     border-radius: 30px;
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .active-user {
     position: absolute;
     background-color: green;
-    height: 1.4rem;
-    width: 1.4rem;
+    height: 1rem;
+    width: 1rem;
     bottom: -3px;
     right: -3px;
     border-radius: 10px;
@@ -59,8 +59,8 @@
 .inactive-user {
     position: absolute;
     background-color: #e5e5e5;
-    height: 1.4rem;
-    width: 1.4rem;
+    height: 1rem;
+    width: 1rem;
     bottom: -3px;
     right: -3px;
     border-radius: 10px;
