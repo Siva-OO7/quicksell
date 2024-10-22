@@ -20,6 +20,6 @@ body {
 
 .container {
   width: 100%;
-  background-color: rgba(135, 206, 235, 0.2);
+  background-color: rgba(135, 206, 235, 0.1);
   background-opacity: 20%;
 }

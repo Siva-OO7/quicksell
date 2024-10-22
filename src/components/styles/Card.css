@@ -1,6 +1,6 @@
 .card {
-    height: 16rem;
-    width: 35rem;
+    height: 14rem;
+    min-width: 31.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -99,7 +99,7 @@
     flex-direction: row;
     width: 100%;
     align-items: center;
-    margin: 1.2rem;
+    margin-bottom: 1.2rem;
 }
 
 .card-footer-priority {
