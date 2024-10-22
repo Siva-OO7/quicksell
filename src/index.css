@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+/* 16(1 rem) -> 100%
+    10(1 rem) ->   */
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.container {
+  width: 100%;
+  background-color: rgba(135, 206, 235, 0.2);
+  background-opacity: 20%;
+}
